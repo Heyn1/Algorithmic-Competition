@@ -1,4 +1,4 @@
-//×î¶ÌHamiltonÂ·¾¶
+//Ã—Ã®Â¶ÃŒHamiltonÃ‚Â·Â¾Â¶
 
 #include <iostream>
 #include <cstring>
